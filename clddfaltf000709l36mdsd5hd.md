@@ -14,7 +14,7 @@ For trying out the commands, you might want to pull up a terminal.
 
 ### 15 Commonly used Linux Commands
 
-1. **ls command**
+* **ls command**
     
 
 The `ls` command is used to display a directory's files and folders.
@@ -25,9 +25,7 @@ This command is very useful if you want to explore the contents of the directory
 ls -l
 ```
 
-`-l` flag is used to display a detailed version of every file and directory available inside the current working directory.
-
-1. **cd command**
+* **cd command**
     
 
 'cd' expands to **c**hange **d**irectory which gives us a fair hint of what this command does. It is used to change the current working directory to a specified folder inside the terminal.
@@ -44,7 +42,7 @@ If you want to move up to the parent directory, then use `..` like this:
 cd ..
 ```
 
-1. **pwd command**
+* **pwd command**
     
 
 'pwd' translates to **P**rint **W**orking **D**irectory and it is used to display the path of current working directory.
@@ -53,7 +51,7 @@ cd ..
 pwd
 ```
 
-1. **echo command**
+* **echo command**
     
 
 The `echo` command displays a string which is passed in as an arguement. For example:
@@ -72,7 +70,7 @@ Awesome
 Blog
 ```
 
-1. **mkdir command**
+* **mkdir command**
     
 
 The 'mkdir' command is used to create new directories inside the current working directory from the terminal.
@@ -81,7 +79,7 @@ The 'mkdir' command is used to create new directories inside the current working
 mkdir <foldername>
 ```
 
-1. **rm command**
+* **rm command**
     
 
 The 'rm' command helps to delete files and directories. For example:
@@ -98,7 +96,7 @@ If you want to remove a directory, then supply the `rm` command with `-R` flag, 
 rm -R folderName
 ```
 
-1. **rmdir command**
+* **rmdir command**
     
 
 The 'rmdir' command provides the utility to remove empty directories from the system. If the directory contains any files/folders inside it, 'rmdir' will throw up an error. Syntax:
@@ -107,7 +105,7 @@ The 'rmdir' command provides the utility to remove empty directories from the sy
 rmdir folderName
 ```
 
-1. **man command**
+* **man command**
     
 
 The 'man' command is used to display the documentation/mannual of any Linuz command that can be run on the terminal.
@@ -118,7 +116,7 @@ If we want to see the documentation/mannual of `ls` command, we would write:
 man ls
 ```
 
-1. **cat command**
+* **cat command**
     
 
 The 'cat' command is used to read the contents of one or more files and display their contents inside the terminal. For example:
@@ -141,7 +139,7 @@ Suppose we want to concatenate the contents of 'file.txt' and 'names.txt' and pl
 cat file.txt names.txt > another.txt
 ```
 
-1. **touch command**
+* **touch command**
     
 
 The 'touch' command is ussed to create a new file without any content inside it. For example:
@@ -156,14 +154,14 @@ This would make a file named 'style.css' in the working directory. Multiple file
 touch index.html style.js
 ```
 
-1. **mv command**
+* **mv command**
     
 
 The 'mv' command expands to **move** and it performs two major functions:
 
-* It helps to rename a file/directory.
+1. It helps to rename a file/directory.
     
-* It helps to move a file/directory from one location to another.
+2. It helps to move a file/directory from one location to another.
     
 
 Syntax:
@@ -192,12 +190,12 @@ Example:
 mv style.css newStyle.css
 ```
 
-File name changed from 'style.css' to 'newStyle.css'.
+The file name changed from 'style.css' to 'newStyle.css'.
 
-1. **cp command**
+* **cp command**
     
 
-The 'cp' command expands to **copy** and it helps to copy file/directory from one location to another. For example:
+The 'cp' command expands to **copy** and it helps to copy files/directory from one location to another. For example:
 
 ```apache
 cp style.css src/style.css
@@ -205,7 +203,7 @@ cp style.css src/style.css
 
 This would copy the file 'style.css' to the 'src/' folder.
 
-1. **tree command**
+* **tree command**
     
 
 The 'tree' command can be used to list out the contents of directories in a tree-like fashion.
@@ -214,7 +212,7 @@ The 'tree' command can be used to list out the contents of directories in a tree
 tree
 ```
 
-1. **head command**
+* **head command**
     
 
 The 'head' command prints the first N lines of a given file content. For example:
@@ -225,7 +223,7 @@ head -n 5 style.css
 
 This would print the first 5 lines of the file 'style.css'.
 
-1. **tail command**
+* **tail command**
     
 
 The 'tail' command prints the last N lines of a given file content. For example:
