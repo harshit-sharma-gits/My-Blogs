@@ -52,3 +52,5 @@ To call a function, you can use the function name followed by parentheses. For e
 In Bash scripting, error handling is essential to ensure that your script behaves as expected even when unexpected conditions occur. But that is outside the scope of this article.
 
 Thanks for reading! Follow me for more!
+
+**#WeMakeDevs**
