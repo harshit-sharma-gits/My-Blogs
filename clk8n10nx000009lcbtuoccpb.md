@@ -24,6 +24,8 @@ After spending some time on StackOverflow, I got to know about `inotifywatch`. I
 sudo apt install inotify-tools
 ```
 
+### Writing the script
+
 Now we are ready to write our bash script, and here it is:
 
 ```bash
