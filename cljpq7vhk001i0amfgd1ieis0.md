@@ -7,7 +7,7 @@ cuid: cljpq7vhk001i0amfgd1ieis0
 slug: a-guide-to-scm-git-and-github
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1688561359262/4267e2eb-f6f0-483a-b57b-0fd4fde5d7af.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1688561985294/27e698db-4e7d-47b4-afe1-b035a642237c.gif
-tags: github, git, devops
+tags: github, git, devops, hashnode, wemakedevs
 
 ---
 
