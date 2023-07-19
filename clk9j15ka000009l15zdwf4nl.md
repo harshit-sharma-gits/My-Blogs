@@ -44,7 +44,7 @@ In general, a script is essentially a file that has one or more commands written
     To write in the script file, you can here use `echo` command, as we have only one line to write.
     
     ```bash
-    echo "ls" > script.sh 
+    echo "ls" > script.sh
     ```
     
     But when you will be writing long scripts, text editor like **nano** will be much useful.
@@ -199,7 +199,7 @@ You may notice we are not using operators for comparison. Instead of '==' we are
 | File Exists | \-f |
 | Expression is false | ! |
 
-### Loops!
+## Loops!
 
 You can use the **while** loop as follows:
 
@@ -237,7 +237,7 @@ do
 done
 ```
 
-### Functions in BASH
+## Functions in BASH
 
 Just like any other programming language, you can use functions in BASH as well. See this simple example of a function:
 
