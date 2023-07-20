@@ -7,7 +7,7 @@ cuid: cljmsikx0000n09k2hftbe2vn
 slug: first-cicd-project-using-azure-jenkins-and-docker
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1688383887896/aaab81ee-8d67-41ff-bfba-be0d24de6a44.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1688384325143/848467ec-7440-400f-9eed-c124cb1b2a43.gif
-tags: azure, devops, jenkins, ci-cd, wemakedevs
+tags: docker, azure, devops, jenkins, wemakedevs
 
 ---
 
@@ -96,7 +96,7 @@ While creating a Virtual Machine in Azure, remember these things:
 
 Pheww, your VM is now being created. It might take some time.
 
-Now you should be able to see something like this: *(I've named my VM as* ***UbuntuTrainingVM****)*
+Now you should be able to see something like this: *(I've named my VM as* ***UbuntuTrainingVM***\*)\*
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1688117870178/faefaec2-b8ae-42ed-988f-e4eea850931b.png align="center")
 
@@ -107,7 +107,7 @@ Now we are ready to **log in to our VM** and install the required software on it
 We need an SSH Client to log in to our VM. [PuTTy](https://www.putty.org/) is something you can use to establish an SSH connection to your VM. Or else, you can use your **Terminal** to do the same. Just write the command in your terminal:
 
 ```powershell
-ssh <USERNAME>@<PUBLIC IP OF VM> 
+ssh <USERNAME>@<PUBLIC IP OF VM>
 ```
 
 It will ask for the password, and you can enter it. Remember passwords don't appear when you write them in the terminal. Not even the Asterisks(\*)!
@@ -133,7 +133,7 @@ sudo apt install openjdk-11-jre
 ```
 
 ```bash
-curl -fsSL https://pkg.jenkins.io/debian/jenkins.io.key | sudo tee \   /usr/share/keyrings/jenkins-keyring.asc > /dev/null 
+curl -fsSL https://pkg.jenkins.io/debian/jenkins.io.key | sudo tee \   /usr/share/keyrings/jenkins-keyring.asc > /dev/null
 ```
 
 ```bash
@@ -298,4 +298,12 @@ If you want to automate it so that it will build whenever any change is pushed o
 
 Cheers! 🤜🤛
 
-Thanks for reading this blog, please give me an Upvote if it helped.
+Thanks for reading this blog, please give me an Upvote if it helped. ✨
+
+Connect with me:
+
+🔗 **LinkedIn:** [**https://www.linkedin.com/in/harshit-sharma--/**](https://www.linkedin.com/in/harshit-sharma--/)
+
+🔗 **My YouTube Channel:** [**https://www.youtube.com/c/CoderBuddy?sub\_confirmation=1**](https://www.youtube.com/c/CoderBuddy?sub_confirmation=1)
+
+🔗 **GitHub:** [**https://github.com/harshit-sharma-gits**](https://github.com/harshit-sharma-gits)
