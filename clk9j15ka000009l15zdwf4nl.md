@@ -279,3 +279,11 @@ These are the most basic commands you are going to use in BASH. Now obviously, B
 If you have followed this blog, you now have a pretty good idea about BASH Scripting. Though you may not be able to write a production-ready script yet as it requires the use of more commands, you will be able to figure you what is happening in any script.
 
 If you find this blog to be helpful, please give an upvote. ✨
+
+Connect with me:
+
+🔗 **LinkedIn:** [**https://www.linkedin.com/in/harshit-sharma--/**](https://www.linkedin.com/in/harshit-sharma--/)
+
+🔗 **My YouTube Channel:** [**https://www.youtube.com/c/CoderBuddy?sub\_confirmation=1**](https://www.youtube.com/c/CoderBuddy?sub_confirmation=1)
+
+🔗 **GitHub:** [**https://github.com/harshit-sharma-gits**](https://github.com/harshit-sharma-gits)
