@@ -1,4 +1,15 @@
-# Introduction to Bash Scripting
+---
+title: "Introduction to Bash Scripting"
+seoTitle: "Basics of Bash Scripting"
+seoDescription: "What is Bash Scripting?
+How to write a simple bash script?"
+datePublished: Sat Feb 18 2023 06:42:44 GMT+0000 (Coordinated Universal Time)
+cuid: cle9lez19000i08mwcdiocf56
+slug: introduction-to-bash-scripting
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1676702525102/74e40170-b0bd-4058-9da9-203738dfe340.jpeg
+tags: bash, wemakedevs
+
+---
 
 Bash scripting is an essential skill for any Linux user. Whether you are a developer or a system administrator, knowing how to write and execute Bash scripts can help you automate routine tasks and improve your productivity. In this blog post, we'll cover the basics of Bash scripting in Linux and some best practices for writing efficient and reliable scripts.
 
@@ -51,4 +62,12 @@ To call a function, you can use the function name followed by parentheses. For e
 
 In Bash scripting, error handling is essential to ensure that your script behaves as expected even when unexpected conditions occur. But that is outside the scope of this article.
 
-Thanks for reading! Follow me for more!
+Thanks for reading! Follow me for more! ✨
+
+Connect with me:
+
+🔗 **LinkedIn:** [**https://www.linkedin.com/in/harshit-sharma--/**](https://www.linkedin.com/in/harshit-sharma--/)
+
+🔗 **My YouTube Channel:** [**https://www.youtube.com/c/CoderBuddy?sub\_confirmation=1**](https://www.youtube.com/c/CoderBuddy?sub_confirmation=1)
+
+🔗 **GitHub:** [**https://github.com/harshit-sharma-gits**](https://github.com/harshit-sharma-gits)
