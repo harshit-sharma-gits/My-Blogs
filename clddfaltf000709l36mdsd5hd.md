@@ -1,4 +1,21 @@
-# Essential Linux Commands everyone should know
+---
+title: "Essential Linux Commands everyone should know"
+seoTitle: "15 Essential Linux Commands"
+seoDescription: "Essential linux commands
+Linux commands
+Bash Scripting
+How to write Linux commands
+Linux commands in terminal
+Ubuntu commands
+common commands
+How to write"
+datePublished: Thu Jan 26 2023 18:22:45 GMT+0000 (Coordinated Universal Time)
+cuid: clddfaltf000709l36mdsd5hd
+slug: essential-linux-commands-everyone-should-know
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1674733786441/115a2844-321d-40a5-ae33-b8def0c54ff9.jpeg
+tags: ubuntu, linux, bash, command-line, cli
+
+---
 
 A Linux command is a program and/or utility that runs on the CLI (Command Line Interface). Linux commands are executed on the terminal. These commands have usage ranging from package management to file manipulation.
 
@@ -234,4 +251,12 @@ tail -n 3 style.css
 
 This would print the last 3 lines of the file 'style.css'.
 
-There you go with the 15 Linux commands. Pretty awesome right!
+There you go with the 15 Linux commands. Pretty awesome right! ✨
+
+Connect with me:
+
+🔗 **LinkedIn:** [**https://www.linkedin.com/in/harshit-sharma--/**](https://www.linkedin.com/in/harshit-sharma--/)
+
+🔗 **My YouTube Channel:** [**https://www.youtube.com/c/CoderBuddy?sub\_confirmation=1**](https://www.youtube.com/c/CoderBuddy?sub_confirmation=1)
+
+🔗 **GitHub:** [**https://github.com/harshit-sharma-gits**](https://github.com/harshit-sharma-gits)
