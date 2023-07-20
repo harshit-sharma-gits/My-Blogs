@@ -85,3 +85,11 @@ And the watches will be set!
 So that was it for this blog! Feel free to use this script. ✅
 
 If you find this somewhat informative, please like this blog! ✨
+
+Connect with me:
+
+🔗 **LinkedIn:** [**https://www.linkedin.com/in/harshit-sharma--/**](https://www.linkedin.com/in/harshit-sharma--/)
+
+🔗 **My YouTube Channel:** [**https://www.youtube.com/c/CoderBuddy?sub\_confirmation=1**](https://www.youtube.com/c/CoderBuddy?sub_confirmation=1)
+
+🔗 **GitHub:** [**https://github.com/harshit-sharma-gits**](https://github.com/harshit-sharma-gits)
