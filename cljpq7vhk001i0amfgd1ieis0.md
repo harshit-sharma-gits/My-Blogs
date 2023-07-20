@@ -200,3 +200,11 @@ git push origin main
 ### Reviewing and Merging a Pull Request
 
 The project maintainers will review your pull request, provide feedback, and discuss any necessary changes. Once approved, they can merge your changes into the main repository.
+
+Connect with me:
+
+🔗 **LinkedIn:** [**https://www.linkedin.com/in/harshit-sharma--/**](https://www.linkedin.com/in/harshit-sharma--/)
+
+🔗 **My YouTube Channel:** [**https://www.youtube.com/c/CoderBuddy?sub\_confirmation=1**](https://www.youtube.com/c/CoderBuddy?sub_confirmation=1)
+
+🔗 **GitHub:** [**https://github.com/harshit-sharma-gits**](https://github.com/harshit-sharma-gits)
