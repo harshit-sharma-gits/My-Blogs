@@ -19,7 +19,7 @@ Linux, as a robust and open-source operating system, powers a vast array of devi
 
 Look below, there are SO MANY! 👇
 
-We will look at the most common ones that are found in mostly all distributions.
+We will look at the most common ones that are found in almost all distributions.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1689940455328/83cecf77-c357-47d7-8eb8-405e9a926b64.png align="center")
 
@@ -73,7 +73,7 @@ The `/mnt` directory is used as a temporary mount point for manually mounted fil
 
 The `/opt` directory is used for installing optional software packages that are not part of the standard Linux distribution. Third-party applications or large software packages may be installed in this directory to keep them separate from the system's default files.
 
-1. ### `/proc` (Process Information):
+1. ### /proc (Process Information):
     
 
 The /proc directory is a virtual file system that provides real-time information about the current processes running on the Linux system. Each process on the system has a corresponding directory within /proc, with numeric names. These directories contain files that expose various attributes of the processes, such as memory usage, file descriptors, and more. Interacting with these files allows users and system administrators to view and modify kernel parameters and access other system information.
