@@ -69,6 +69,8 @@ Lastly, we need to have a deployment environment. So for that, we are going to u
 
 The basic question is, for what project you are going to build a CI/CD Pipeline? For this blog, I'm using a simple NodeJS ToDo List Application (🔗: [https://github.com/harshit-sharma-gits/node-todo-cicd](https://github.com/harshit-sharma-gits/node-todo-cicd)) which I have forked from [https://github.com/LondheShubham153/node-todo-cicd](https://github.com/LondheShubham153/node-todo-cicd) and did some styling changes myself.
 
+See this project in action: [https://youtu.be/8lh7Be8HXYk](https://youtu.be/8lh7Be8HXYk)
+
 ### Setting up the Ubuntu VM
 
 Firstly we are going to set up our environment on the cloud. Heading on to **Microsoft Azure**, click on **Virtual Machine** that we intend to create.
