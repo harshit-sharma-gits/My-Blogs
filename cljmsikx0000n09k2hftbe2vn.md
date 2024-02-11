@@ -1,5 +1,5 @@
 ---
-title: "Very First CI/CD Project using Azure, Jenkins, and Docker"
+title: "CI/CD Project using Azure, Jenkins, and Docker"
 seoTitle: "Building a CI/CD Pipeline Project."
 seoDescription: "Making a DevOps CI/CD Project using Microsoft Azure, Jenkins and Docker."
 datePublished: Mon Jul 03 2023 11:41:02 GMT+0000 (Coordinated Universal Time)
@@ -11,7 +11,7 @@ tags: docker, azure, devops, jenkins, wemakedevs
 
 ---
 
-Okay, so hear me out! If you're learning DevOps, then you might have already gone through much of a hassle regarding what are the different software that we use in DevOps, what functions they perform, and what not! But, all this really didn't make sense right?
+Okay, so hear me out! If you're learning DevOps, then you might have already gone through much of a hassle regarding what are the different software that we use in DevOps, what functions they perform, and what not! But all this really didn't make sense right?
 
 It is because you don't know how to run them all together, to achieve something. Let me help you to make sense of CI/CD. We are going to make a CI/CD Project!
 
@@ -96,11 +96,11 @@ While creating a Virtual Machine in Azure, remember these things:
 
 Pheww, your VM is now being created. It might take some time.
 
-Now you should be able to see something like this: *(I've named my VM as* ***UbuntuTrainingVM***\*)\*
+Now you should be able to see something like this: *(I've named my VM as****UbuntuTrainingVM***\*)\*
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1688117870178/faefaec2-b8ae-42ed-988f-e4eea850931b.png align="center")
 
-Now don't be flabbergasted by the looks of it. One thing I want you to note here is the Public IP of your VM. As for my VM, it is `20.24.139.71` **.**
+Now don't be flabbergasted by the looks of it. One thing I want you to note here is the Public IP of your VM. As for my VM, it is `20.24.139.71`**.**
 
 Now we are ready to **log in to our VM** and install the required software on it. But how do we do that again?
 
@@ -302,8 +302,8 @@ Thanks for reading this blog, please give me an Upvote if it helped. ✨
 
 Connect with me:
 
-🔗 **LinkedIn:** [**https://www.linkedin.com/in/harshit-sharma--/**](https://www.linkedin.com/in/harshit-sharma--/)
+🔗 **LinkedIn:**[**https://www.linkedin.com/in/harshit-sharma--/**](https://www.linkedin.com/in/harshit-sharma--/)
 
-🔗 **My YouTube Channel:** [**https://www.youtube.com/c/CoderBuddy?sub\_confirmation=1**](https://www.youtube.com/c/CoderBuddy?sub_confirmation=1)
+🔗 **My YouTube Channel:**[**https://www.youtube.com/c/CoderBuddy?sub\_confirmation=1**](https://www.youtube.com/c/CoderBuddy?sub_confirmation=1)
 
-🔗 **GitHub:** [**https://github.com/harshit-sharma-gits**](https://github.com/harshit-sharma-gits)
+🔗 **GitHub:**[**https://github.com/harshit-sharma-gits**](https://github.com/harshit-sharma-gits)
